@@ -8,3 +8,8 @@
 let greeting-ru = "привет";
 console.log($`Laika says {greeting-ru}!`)
 ```
+
+- [x] Zero-G training
+- [x] Breakfast
+- [ ] Liftoff!
+- [ ] Lunch
